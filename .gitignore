@@ -1,0 +1,10 @@
+node_modules
+/public
+/logs
+distuploads/
+/build 
+.vercel
+/dist 
+config.bat
+
+env.local
